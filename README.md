@@ -8,8 +8,8 @@
 - 📖 With a background in coding, research, and teaching
 
 ### 🧰 **Tech Stack**
-💡 **Languages:** Python, Bash, MATLAB, C++
-🧪 **Tools:** Pandas, Numpy, Tensorflow, PyTorch, CompChem software, RDKit, among others 😄
+- 💡 **Languages:** Python, Bash, MATLAB, C++
+- 🧪 **Tools:** Pandas, Numpy, Tensorflow, PyTorch, CompChem software, RDKit, among others 😄
 
 ### 📛**My badges**
 
